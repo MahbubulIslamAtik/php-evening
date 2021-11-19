@@ -1,0 +1,23 @@
+[02-Mar-2021 12:51:03 Europe/Berlin] PHP Warning:  copy(): Filename cannot be empty in C:\xampp\htdocs\PHP_E\form_post.php on line 16
+[03-Mar-2021 11:00:36 Europe/Berlin] PHP Warning:  in_array() expects parameter 2 to be array, string given in C:\xampp\htdocs\PHP_E\form_post.php on line 24
+[03-Mar-2021 13:52:44 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function file_get_contentes() in C:\xampp\htdocs\PHP_E\file_get_contentes.php:2
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP_E\file_get_contentes.php on line 2
+[14-Mar-2021 12:42:59 Europe/Berlin] PHP Parse error:  syntax error, unexpected '<<< ABC' (T_START_HEREDOC) in C:\xampp\htdocs\PHP_E\heredoc.php on line 5
+[14-Mar-2021 12:43:25 Europe/Berlin] PHP Parse error:  syntax error, unexpected '<<<ABC' (T_START_HEREDOC) in C:\xampp\htdocs\PHP_E\heredoc.php on line 5
+[14-Mar-2021 12:44:14 Europe/Berlin] PHP Parse error:  syntax error, unexpected '<<<ABC' (T_START_HEREDOC) in C:\xampp\htdocs\PHP_E\heredoc.php on line 5
+[14-Mar-2021 12:44:27 Europe/Berlin] PHP Parse error:  syntax error, unexpected '<' in C:\xampp\htdocs\PHP_E\heredoc.php on line 4
+[14-Mar-2021 12:45:38 Europe/Berlin] PHP Parse error:  syntax error, unexpected '<<<'ABC'' (T_START_HEREDOC) in C:\xampp\htdocs\PHP_E\heredoc.php on line 5
+[14-Mar-2021 13:05:45 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\xampp\htdocs\PHP_E\defining_function.php on line 35
+[14-Mar-2021 13:05:54 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\xampp\htdocs\PHP_E\defining_function.php on line 35
+[14-Mar-2021 13:06:25 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\xampp\htdocs\PHP_E\defining_function.php on line 35
+[14-Mar-2021 13:06:25 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\xampp\htdocs\PHP_E\defining_function.php on line 35
+[14-Mar-2021 13:07:10 Europe/Berlin] PHP Parse error:  syntax error, unexpected '$add' (T_VARIABLE) in C:\xampp\htdocs\PHP_E\defining_function.php on line 35
+[14-Mar-2021 13:07:11 Europe/Berlin] PHP Parse error:  syntax error, unexpected '$add' (T_VARIABLE) in C:\xampp\htdocs\PHP_E\defining_function.php on line 35
+[14-Mar-2021 13:07:11 Europe/Berlin] PHP Parse error:  syntax error, unexpected '$add' (T_VARIABLE) in C:\xampp\htdocs\PHP_E\defining_function.php on line 35
+[14-Mar-2021 13:08:02 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function {closure}(), 0 passed in C:\xampp\htdocs\PHP_E\defining_function.php on line 35 and exactly 2 expected in C:\xampp\htdocs\PHP_E\defining_function.php:29
+Stack trace:
+#0 C:\xampp\htdocs\PHP_E\defining_function.php(35): {closure}()
+#1 {main}
+  thrown in C:\xampp\htdocs\PHP_E\defining_function.php on line 29
